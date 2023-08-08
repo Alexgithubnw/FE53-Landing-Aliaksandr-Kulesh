@@ -1,0 +1,17 @@
+@import url(./cdn.css);
+@import url(./our_process.css);
+* {
+margin: 0;
+padding: 0;
+text-decoration: none;
+list-style: none;
+box-sizing: border-box;
+}
+html {
+font-family: 'Open Sans', 'Raleway', sans-serif;
+}
+.conteiner {
+    max-width: 1170px;
+    padding: 0 15px;
+    margin: auto;
+}

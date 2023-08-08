@@ -1,0 +1,64 @@
+
+.our_process {
+    background-color: #fff;
+    padding: 80px;
+}
+
+.title {
+    font-size: 36px;
+    font-family: Raleway;
+    font-weight: 400;
+    color: #212121;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 34px;
+}
+.line {
+    width: 64px;
+    border: 1px solid #E72424;
+    margin: auto;
+    margin-bottom: 34px;
+}
+.text {
+    text-align: center;
+    font-weight: 400;
+    color: #86878B;
+    font-size: 14px;
+    margin-bottom: 68px;
+}
+.our_process-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+.our_process-card {
+    width: 350px;
+    margin: auto;
+    
+}
+.our_process-img {
+    width: 70px;
+    height: 70px;
+    border: 1px solid #E72424;
+    border-radius: 50%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.our_process-title {
+    height: 29px;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.our_process-text {
+    text-align: center;
+    margin-bottom: 116px;
+}
+.our_process-text p {
+    font-weight: 400;
+}
